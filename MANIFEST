@@ -4,3 +4,4 @@ MANIFEST
 README
 t/Acme-Tpyo.t
 lib/Acme/Tpyo.pm
+META.yml                                 Module meta-data (added by MakeMaker)
