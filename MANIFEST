@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Acme-Tpyo.t
+lib/Acme/Tpyo.pm

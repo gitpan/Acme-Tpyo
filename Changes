@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::Misspell.
+
+0.01  Sun Aug  1 14:14:43 2004
+	- original version; created by h2xs 1.23 with options
+		-XA -n Acme::Misspell
+
